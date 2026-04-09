@@ -32,11 +32,6 @@ The app will open in your browser. Enter product data manually using the input f
 | `SP` | Selling price per unit |
 | `VC` | Variable cost per unit |
 | `Q` | Quantity sold |
-
-Optionally include a `Product` column for product names.
-
-## Screenshots
-
 _Add screenshots of your dashboard here._
 
 ## License
