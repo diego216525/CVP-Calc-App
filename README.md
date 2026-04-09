@@ -1,1 +1,0 @@
-This multi product CVP calculator allows one to input product cost information in order to see useful cost information and make changes to the cost information in order to see real time changes to how their decisions affect profits
